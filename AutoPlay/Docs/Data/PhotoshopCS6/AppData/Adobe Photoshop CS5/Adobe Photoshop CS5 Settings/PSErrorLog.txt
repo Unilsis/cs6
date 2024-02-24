@@ -1,0 +1,4 @@
+2014:12:28 16:20:56 : ..\..\sources\ExifSupport.cpp : 3024 : REQUIRE failed
+2014:12:28 16:20:56 : ..\..\sources\ExifSupport.cpp : 3024 : REQUIRE failed
+2014:12:28 16:20:57 : ..\..\sources\ExifSupport.cpp : 3024 : REQUIRE failed
+2014:12:28 16:20:57 : ..\..\sources\ExifSupport.cpp : 3024 : REQUIRE failed

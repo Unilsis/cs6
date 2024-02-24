@@ -1,0 +1,537 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Distiller]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Distiller\9.0]
+"RunFromLocalDisk"=dword:00000001
+"InstallPath"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Distiller\9.0\Installer]
+"ENU_GUID"="{AC76BA86-1033-0000-7760-000000000004}"
+"InstallDate"="04/11/2023"
+"InstallTime"="21:13:55"
+"ReinstallMode"="pocmus"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Distiller\9.0\InstallPath]
+@="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Distiller\9.0\Language]
+"UI"="ENU"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Distiller\9.0\PrinterName]
+@="Adobe PDF"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Distiller\9.0\Registration]
+"SERIAL"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Distiller\9.0\Uninstall]
+"Distiller"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Elements]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Elements\9.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Elements\9.0\Installer]
+"InstallTime"=""
+"InstallDate"=""
+"ENU_GUID"="{AC76BA86-1033-0000-7760-000000000004}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Elements\9.0\InstallPath]
+@="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat Elements"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\7.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\7.0\Installer]
+"DisableMaintenance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\8.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\8.0\Installer]
+"DisableMaintenance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\9.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\9.0\Installer]
+"ENU_GUID"="{AC76BA86-1033-0000-7760-000000000004}"
+"Path"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\"
+"InstallDate"="04/11/2023"
+"InstallTime"="21:13:55"
+"ReinstallMode"="pocmus"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\9.0\Installer\IOD]
+"Library"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Esl\\Aiod.dll"
+@="\"C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Esl\\Aiod.dll\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\9.0\InstallPath]
+@="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\9.0\Language]
+"UI"="ENU"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\9.0\Language\current]
+@="acrobat.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\9.0\Language\next]
+@="acrobat.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\9.0\Registration]
+"SERIAL"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Installer]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Installer\{AC76BA86-1033-0000-7760-000000000004}]
+"CACHE_DIR"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Setup Files\\{AC76BA86-1033-0000-7760-000000000004}\\"
+"UPDATE_DIR"=""
+"ProductName"="Adobe Acrobat 9 Pro"
+"OriginalDatabase"="C:\\WINDOWS\\Installer\\10835d.msi"
+"REMOVE"=""
+"ACROBAT"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat\\"
+"INSTALLDIR"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\"
+"ISX_SERIALNUMBER"=""
+"LOTUS_DLL_PATH"="C:\\PROGRA~2\\Adobe\\ACROBA~1.0\\PDFMaker\\Mail\\LOTUSN~1\\PDFMLO~1.DLL"
+"ProductCode"="{AC76BA86-1033-0000-7760-000000000004}"
+"ProductLanguage"="1033"
+"SUITEMODE"=""
+"SourceDir"=""
+"UILevel"="3"
+"SetupCacheExport"=" "
+"ALLUSERS"="1"
+"REINSTALLMODE"="pocmus"
+"PLUG_INS"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat\\plug_ins\\"
+"SUPPORTDIR"="C:\\Users\\DOMING~1\\AppData\\Local\\Temp\\{AC76BA86-1033-0000-7760-000000000004}\\"
+"ACROBAT_AMT"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat\\AMT\\"
+"ProductVersion"="9.0.0"
+"EULA_ACCEPT"="NO"
+"REGISTRATION_SUPPRESS"="NO"
+"UPGRADEFOUND"=""
+"ICONS_FOLDER"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Resource\\Icons\\"
+"DefragResetProgress"="No"
+"ESIVEMULOV"=""
+"COLOR_FILES"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Resource\\Color\\"
+"DeleteUpdateFolder"="Yes"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Registration]
+"NAME"="DTI"
+"COMPAN"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair\Adobe Acrobat]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair\Adobe Acrobat\9.0]
+"Current"="{AC76BA86-1033-0000-7760-000000000004}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair\Adobe Acrobat\9.0\IOD]
+"Library"="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Esl\\Aiod.dll"
+"IE"=",FileRenameShortToLong C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat\\ActiveX\\AcroIEHelper.dll"
+"CM"=",FileRenameShortToLong C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat Elements\\ContextMenu.dll"
+"SERIAL"=""
+@="\"C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Esl\\Aiod.dll\""
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\1168097F47A9]
+@="41723DAF73B1B0287C6943C05E2B8BF9129A9027"
+
+[HKEY_CURRENT_USER\Software\Adobe\1B3BF8D97249]
+@="B5F34F324F3A1AB0A5BEB17E8967FEB0E4A90443"
+
+[HKEY_CURRENT_USER\Software\Adobe\39B1653CE858]
+@="0ECAF1085936D9C82C58844B0767E4ED8A4FF7E3"
+
+[HKEY_CURRENT_USER\Software\Adobe\93F606046944]
+@="B8FC8C416FF62948551B6F46BFF327A1FC6375E7"
+
+[HKEY_CURRENT_USER\Software\Adobe\95B923A57534]
+@="EEC3C6ED979BD1570A0BE2401138F91189275C15"
+
+[HKEY_CURRENT_USER\Software\Adobe\A11A31D4C2CE]
+@="77F8DAB819E0E44D9F1436D94B7A9A8971750E05"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Distiller]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Distiller\PrinterJobControl]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Distiller\PrinterJobControl\DownloadFonts]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Elements]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Elements\9.0]
+"InstallTime"=""
+"InstallDate"=""
+"ENU_GUID"="{AC76BA86-1033-0000-7760-000000000004}"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Elements\9.0\Installer]
+"InstallTime"=""
+"InstallDate"=""
+"ENU_GUID"="{AC76BA86-1033-0000-7760-000000000004}"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Elements\9.0\InstallPath]
+@="C:\\Program Files (x86)\\Adobe\\Acrobat 9.0\\Acrobat Elements"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\9.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\9.0\Settings]
+"IEToolbarIsVisible"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="8cbf4a8d-d92d-4d48-936f-0e2fac8d68df"
+"Agent"="C:\\Users\\angotech\\Documents\\Photoshop novo\\AutoPlay\\Docs\\App\\PhotoshopCS6\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+"OptIn"=dword:00000000
+"Date"="2018-09-25T13:42:19Z"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Adobe Photoshop CS6]
+"Prerelease"=dword:00000000
+"Build"="13.0 20120315.r.428 2012/03/15:21:00:00"
+"LaunchCounter"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6_CS6_Adobe Photoshop CS6_13.0]
+"OptIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\F22F2AB4A12A]
+@="455DAA2CA997099FFD0A386786731EF781E0CC62"
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="3996DC6111208D341DF97A80133D48"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-12-19T10:27:15.1020Z]
+@="C:\\Users\\DomingosFran_rr51ebl\\Pictures\\Captura de ecrã 2023-12-19 112424.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-12-21T09:56:06.1710Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\Captura de ecrã 2023-12-21 095516.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-12-22T14:17:30.3221Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\10276517 - Cópia.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-12-27T09:02:57.5050Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\mapa-de-angola-com-pontos-de-luz-neon-azul_365941-173.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-12-29T15:14:46.8850Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\SELENIUM\\PNG\\SELENIUM_LOGO_Prancheta 1 cópia 2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-12-29T15:16:47.6691Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\SELENIUM\\PNG\\SELENIUM_LOGO_Prancheta 1 cópia 5.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-14T16:26:12.7270Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\0266c6105212795.5f741fdf46f29.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-14T16:27:10.8311Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\rocket2jpg.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-14T17:58:55.6524Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_second\\src\\assets\\img\\bg\\bg-green-light-5904e0ee57.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-14T18:03:12.4965Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_second\\src\\assets\\img\\bg\\bg-green-1-3d14cfccda.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-14T18:04:11.3916Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_second\\src\\assets\\img\\bg\\bg-green-2-c01af5f0a3.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-14T18:04:43.8157Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_second\\src\\assets\\img\\bg\\bg-green-3-3e27425aba.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-14T18:06:04.6118Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_second\\src\\assets\\img\\bg\\bg-corner-1442ac7061.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T21:47:27.1910Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\Screenshots\\Captura de ecrã 2024-01-15 224604.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T22:18:26.8170Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\Amazon_logo-1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T22:18:50.2611Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\parceiros\\658c787070c0f96a7e851508_Quack logo black.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T22:18:50.6312Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\parceiros\\6267f0f496fe32988c403215_uniper.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T22:18:50.9393Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\parceiros\\Aehr-Test-Systems-Logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T22:18:51.2204Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\parceiros\\camunda.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T22:18:51.3875Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\parceiros\\go2group_logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T22:18:51.5916Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\parceiros\\infuse_logo-011_0.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T22:18:51.7967Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\parceiros\\logo_europack@2x.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T23:02:03.5860Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\dd.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T23:08:10.4111Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_third\\src\\assets\\wp-content\\uploads\\sites\\338\\2023\\02\\Mask_group.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T23:08:23.3642Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\empreendedor-reuniao-negros-negocios-business-empreendedorismo-equipe-treinamento-1495217955763_615x300-removebg-preview.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-15T23:09:57.2483Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\remediation-partner-program-blog-image.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-31T10:42:01.3110Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium\\src\\assets\\img\\saas-intro-1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-01-31T10:42:18.2631Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium\\src\\assets\\img\\rocket.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-02T09:02:03.9090Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium\\src\\assets\\img\\fundoquadro2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-03T17:42:56.2830Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\fg0.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-03T17:50:55.7581Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\bg4.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-03T19:36:47.6532Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\bg2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-03T21:05:05.8025Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\Man-03.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-03T22:05:22.6626Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\Man-01.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:44.1050Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\2.-Logo-BG-V.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:44.8912Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\728f177c3f194df007bf1adff15ba9b9 2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:45.2964Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\74884PitaFusion_Logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:45.5135Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\Aehr-Test-Systems-Logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:45.7496Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\BQwukuZwwwXrg27B9Le2Q6-1200-80.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:45.953Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\6267f0f496fe32988c403215_uniper.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:46.2048Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\go2group_logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:46.3929Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\go2group-ar21.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:46.64610Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 11.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:46.86211Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 12.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:47.30213Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 15.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:47.55714Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 16.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:47.7912Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 14.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:47.80115Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 17.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:48.20217Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 19.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:48.33818Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 21.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:48.47519Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 22.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:48.61920Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 23.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:48.7416Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 18.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:48.75021Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 24.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:48.91222Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 25.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:49.19224Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 27.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:49.33625Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\infuse_logo-011_0.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:49.43026Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\logo_europack@2x.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:49.4523Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\image 26.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:49.55327Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\Logo_IDT.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:51.10928Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\Morgan-Logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:52.55529Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\PSLOGO.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:52.87030Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\SpaceX_logo_black.svg.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:53.3331Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\SpaceX-Logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:53.33732Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\Tesla_logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:04:53.67733Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\transferir.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:06:14.16234Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\658c787070c0f96a7e851508_Quack logo black.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:06:14.42035Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\camunda.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:13:19.14336Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\Banco-Keve.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:13:34.46937Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\bci.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:13:34.70138Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\carrinho.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T11:13:34.95239Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\parceiros\\Empresa-Viva-seguro.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T12:54:02.75840Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\email.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T12:54:02.91941Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\Email-icon.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T12:54:03.12942Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\gpss.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T12:54:03.29243Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\LocationGPS.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T12:54:03.49644Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\phone-icon-2048x2048-nottqc8j.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-04T12:54:03.79645Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\phone-icon-telephone-icon-symbol-for-app-and-messenger-vector.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-05T08:17:27.7000Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\Mask-Group-6.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-05T11:10:15.1931Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\Captura de ecrã 2024-02-05 120940.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-05T11:30:26.1152Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\Captura de ecrã 2024-02-05 122932.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-06T09:36:51.00Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\rocket1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-06T13:48:15.3901Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\Man-033.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-06T13:48:15.6882Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\Mask-Group-woman.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-07T16:19:42.4820Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\Screenshots\\Captura de ecrã 2024-02-07 171711.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-07T16:21:22.3111Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\770706.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-08T17:02:49.8520Z]
+@="C:\\Users\\DomingosFrancisco(DT\\Downloads\\templates\\32\\site\\demos.creative-tim.com\\black-dashboard\\assets\\img\\anime3.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-08T17:03:08.7412Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\321434984_704910024644828_5471937362092895979_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-08T17:03:09.2233Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\373640744_1410840262795421_4816043066372937696_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-08T20:50:41.660Z]
+@="C:\\Users\\DomingosFrancisco(DT\\Downloads\\templates\\32\\site\\demos.creative-tim.com\\black-dashboard\\assets\\img\\emilyz.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-08T20:53:28.3901Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\Screenshots\\Captura de ecrã 2024-02-08 215307.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-09T13:28:23.7160Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\149071.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-09T13:29:11.6031Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\Onboard\\open_account\\public\\images\\person-icon.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-17T19:41:06.8800Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Pictures\\Screenshots\\Captura de ecrã 2024-02-17 182110.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-21T14:50:42.3050Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\Ellipse.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-22T09:22:27.2080Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\Ellipses.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-22T10:43:46.9801Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\AddProduto1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-22T10:53:10.4072Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\Vector-banking-07.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-22T11:08:00.93Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\icons\\coreb.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2024-02-22T12:44:53.4310Z]
+@="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\fluxo_services\\AddProduto1-Recuperado.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"MemoryUsage"=dword:0000003c
+"uiLanguageKey CS6"="en_US"
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[609,231,1152,672]"
+"oldPaletteFontTypeKey CS6"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\DomingosFrancisco(DT\\OneDrive - Selenium SA\\Projectos\\ng\\website_selenium_actual\\src\\assets\\img\\fluxo_services\\"
